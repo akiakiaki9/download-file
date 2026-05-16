@@ -1,9 +1,9 @@
-// import File from "./File";
+import File from "./File";
 
 function App() {
   return (
     <div>
-      dd
+      <File />
     </div>
   );
 }
